@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @conor03murphy
 - 👀 I’m interested in mathematics, music, and sport!
-- 🌱 I’m currently studying for my Leaving Certificate.
+- 🌱 I’m currently studying Theoretical Physics at Trinity College Dublin.
 - 📫 How to reach me: email - conor26murphy@gmail.com
 
 <!---
