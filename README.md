@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @conor03murphy
-- 👀 I’m interested in mathematics, music, and sport!
-- 🌱 I’m currently studying Theoretical Physics at Trinity College Dublin.
-- 📫 How to reach me: email - conor26murphy@gmail.com
+-  Hi, I’m @conor03murphy
+-  I’m interested in mathematics, physics, music, and sport!
+-  I’m currently studying Part III Theoretical Physics at the University of Cambridge.
+-  How to reach me: email - conor26murphy@gmail.com
 
 <!---
 conor03murphy/conor03murphy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
